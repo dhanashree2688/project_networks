@@ -1,0 +1,6 @@
+ip_gateway_eth0=172.29.0.160
+ip_vrhost_eth0=172.29.0.161
+ip_vrhost_eth1=172.29.0.162
+ip_vrhost_eth2=172.29.0.164
+ip_server1_eth0=172.29.0.163
+ip_server2_eth0=172.29.0.165

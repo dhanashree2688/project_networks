@@ -1,0 +1,32 @@
+Host gateway
+  User topo20
+  HostName postino
+  Port 22001
+  IdentityFile vnltopo20.pvtkey
+  LogLevel quiet
+  StrictHostKeyChecking no
+  UserKnownHostsFile /dev/null
+Host vrhost
+  User topo20
+  HostName postino
+  Port 22002
+  IdentityFile vnltopo20.pvtkey
+  LogLevel quiet
+  StrictHostKeyChecking no
+  UserKnownHostsFile /dev/null
+Host server1
+  User topo20
+  HostName postino
+  Port 22003
+  IdentityFile vnltopo20.pvtkey
+  LogLevel quiet
+  StrictHostKeyChecking no
+  UserKnownHostsFile /dev/null
+Host server2
+  User topo20
+  HostName postino
+  Port 22004
+  IdentityFile vnltopo20.pvtkey
+  LogLevel quiet
+  StrictHostKeyChecking no
+  UserKnownHostsFile /dev/null
